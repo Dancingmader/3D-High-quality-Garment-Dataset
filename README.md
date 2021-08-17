@@ -66,7 +66,7 @@ README.md
 
 
 ## Citation
-If you use this dataset for your research, please consider citing:
+If you use this dataset for your research, please cite our paper:
 
 ```
 @article{WANG2021102020,
