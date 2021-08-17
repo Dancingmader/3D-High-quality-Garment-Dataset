@@ -6,7 +6,7 @@ Official dataset for "Automatic Pose and Wrinkle Transfer for Aesthetic Garment 
 ![avatar](http://www.cad.zju.edu.cn/home/jin/cagd2021/teaser.jpeg)
 
 ## Download the Dataset
-The dataset can be downloaded from [Google Drive](https://drive.google.com/file/d/1Rn2o5tDwTyr8H5E_igrOlPmQhS4cyhS7/view?usp=sharing).
+The dataset can be downloaded via [Google Drive](https://drive.google.com/file/d/1Rn2o5tDwTyr8H5E_igrOlPmQhS4cyhS7/view?usp=sharing).
 
 ## Dataset Description
 Our dataset contains a total of 19 paired garment models in 9 types, including:
